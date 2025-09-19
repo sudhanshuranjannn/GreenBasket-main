@@ -6,9 +6,7 @@ Welcome to GreenBasket - your one-stop destination for a website to sell grocery
 - [About Us](#about)
 - [Key Features](#features)
 - [How to Get Started](#getting-started)
-- [Preview](#preview)
 - [How to set-up in vs code](#Setup)
-- [Connect With Us](#contact)
 
 ## About Us
 GreenBasket is committed to providing fresh and affordable groceries right at your doorstep. Our extensive range of products, user-friendly interface, and reliable delivery make us the ideal choice for your grocery needs.
